@@ -2,7 +2,7 @@
 
 A collection of common design patterns used in smart contract development.
 
-This repository documents reusable patterns that help improve security, upgradeability, and maintainability of blockchain applications.
+This repository documents reusable patterns that help improve security, upgradeability, and maintainability of blockchain applications. 
 
 ---
 
