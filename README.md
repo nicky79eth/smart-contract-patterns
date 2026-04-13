@@ -6,7 +6,7 @@ This repository documents reusable patterns that help improve security, upgradea
 
 ---
 
-## 📂 Repository Structure
+## 📂 Repository Structure.
 
 ```id="r8p7fl"
 smart-contract-patterns
@@ -31,7 +31,7 @@ Designing contracts that can evolve after deployment.
 
 ### Pausable Contracts
 
-Adding emergency stop mechanisms for security.
+Adding emergency stop mechanisms for security
 
 ---
 
