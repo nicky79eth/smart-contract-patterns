@@ -23,11 +23,11 @@ smart-contract-patterns
 
 ### Access Control
 
-Managing permissions and roles within smart contracts.
+Managing permissions and roles within smart contracts
 
 ### Upgradeable Contracts
 
-Designing contracts that can evolve after deployment.
+Designing contracts that can evolve after deployment
 
 ### Pausable Contracts
 
