@@ -31,15 +31,15 @@ Designing contracts that can evolve after deployment.
 
 ### Pausable Contracts
 
-Adding emergency stop mechanisms for security
+Adding emergency stop mechanisms for security.
 
 ---
 
 ## 🎯 Purpose
 
-Smart contract patterns are essential for building secure and scalable decentralized applications
+Smart contract patterns are essential for building secure and scalable decentralized applications.
 
-This repository serves as a reference for developers to understand and apply proven design patterns
+This repository serves as a reference for developers to understand and apply proven design patterns.
 
 ---
 
