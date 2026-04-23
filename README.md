@@ -48,7 +48,7 @@ This repository serves as a reference for developers to understand and apply pro
 * Reentrancy Guard..
 * Pull Payment..
 * Factory Pattern..
-* Proxy Pattern.
+* Proxy Pattern..
 * Multisig Pattern.
 
 ---
