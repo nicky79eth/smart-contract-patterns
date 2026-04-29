@@ -45,7 +45,7 @@ This repository serves as a reference for developers to understand and apply pro
 
 ## 🚀 Future Patterns
 
-* Reentrancy Guard..
+* Reentrancy Guard...
 * Pull Payment..
 * Factory Pattern..
 * Proxy Pattern..
